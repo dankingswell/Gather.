@@ -1,2 +1,2 @@
 # Gather.
-Call logging tool for small/independant enterprises
+Console call logging tool for small/independant enterprises
